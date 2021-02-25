@@ -48,3 +48,6 @@ extern char *argv0;
 					(argc--, argv++, argv[0])))
 
 #endif
+
+/* vim: ft=c
+ */
